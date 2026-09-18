@@ -4,7 +4,7 @@ Software engineer building full-stack products and event-driven systems with Typ
 
 I like turning messy workflows into practical tools with clear interfaces, dependable APIs, and thoughtful developer experience.
 
-[LinkedIn](https://www.linkedin.com/in/kazi-rezoanur-rahman/) · [CV and job materials](https://github.com/RezoanurRahman/cv)
+[LinkedIn](https://www.linkedin.com/in/kazi-rezoanur-rahman/) · [Repositories](https://github.com/RezoanurRahman?tab=repositories)
 
 ## Selected work
 
