@@ -14,7 +14,6 @@ I like turning messy workflows into practical tools with clear interfaces, depen
 | [Event-Agent-Sim](https://github.com/RezoanurRahman/event-agent-sim) | An end-to-end event pipeline: React UI → REST API → Kafka → worker → PostgreSQL → live dashboard. |
 | [Tail Spend Guardian](https://github.com/RezoanurRahman/tail-spend-guardian) | A React and Express audit dashboard backed by Prisma and PostgreSQL. |
 | [GearLoop](https://github.com/RezoanurRahman/gearloop) | A typed React + Hono equipment checkout workflow with filtering, due dates, and API tests. |
-| [BarrierFree](https://github.com/RezoanurRahman/BarrierFree) | A Chrome extension exploring practical accessibility improvements for everyday browsing. |
 
 ## Core toolkit
 
