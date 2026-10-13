@@ -10,17 +10,19 @@ I like turning messy workflows into practical tools with clear interfaces, depen
 
 | Project | What it shows |
 | --- | --- |
-| [Shelfmark](https://github.com/RezoanurRahman/shelfmark) | A calm reading tracker built with Vue 3, Express, TypeScript, Vitest, and GitHub Actions. |
+| [Shelfmark](https://github.com/RezoanurRahman/shelfmark) | An AI-generated Vue 3 reading tracker with Express, TypeScript, Vitest, and GitHub Actions. |
 | [Event-Agent-Sim](https://github.com/RezoanurRahman/event-agent-sim) | An end-to-end event pipeline: React UI → REST API → Kafka → worker → PostgreSQL → live dashboard. |
 | [Tail Spend Guardian](https://github.com/RezoanurRahman/tail-spend-guardian) | A React and Express audit dashboard backed by Prisma and PostgreSQL. |
 | [GearLoop](https://github.com/RezoanurRahman/gearloop) | A typed React + Hono equipment checkout workflow with filtering, due dates, and API tests. |
 
 ## Core toolkit
 
-- **Product:** React, Vue, TypeScript, Vite, accessible UI
+- **Product:** React, TypeScript, Vite, accessible UI
 - **Backend:** Node.js, Express, Hono, REST APIs, Server-Sent Events
-- **Data and systems:** PostgreSQL, Prisma, Kafka, Docker
+- **Data and systems:** PostgreSQL, Prisma, Kafka, Docker Compose (Event-Agent-Sim local infrastructure)
 - **Quality:** Vitest, ESLint, Prettier, GitHub Actions, strict TypeScript
+
+In my AI-generated portfolio, AI builders generate the application code; I build and operate the orchestration and quality-gate workflow. Vue appears in projects such as Shelfmark.
 
 ## What I care about
 
